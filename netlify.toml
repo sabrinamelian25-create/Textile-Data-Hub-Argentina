@@ -1,0 +1,7 @@
+"$schema" = "https://open-api.netlify.com/netlify.schema.json"
+
+[build]
+  base = "frontend"
+  command = "npm run build"
+  publish = "out"
+  environment = { NETLIFY_NEXT_PLUGIN_SKIP = "true", NEXT_STATIC_EXPORT = "1" }

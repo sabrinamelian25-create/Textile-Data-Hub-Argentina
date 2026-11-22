@@ -1,0 +1,9 @@
+.git/
+.tools/
+backend/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.netlify/
+*.log
+.env
