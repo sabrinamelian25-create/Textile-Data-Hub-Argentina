@@ -5,7 +5,7 @@ import { Footer } from "@/components/Footer";
 import { GlossaryProvider } from "@/components/GlossaryTooltip";
 
 export const metadata: Metadata = {
-  title: "Textile Data Hub Argentina — Datos económicos sectoriales oficiales",
+  title: "Datos de Industria Textil Argentina (DITA) — Datos económicos sectoriales oficiales",
   description:
     "Plataforma académica de datos oficiales verificados sobre industria textil, indumentaria, comercio exterior NCM, empleo SIPA, precios y contexto macroeconómico de Argentina.",
 };

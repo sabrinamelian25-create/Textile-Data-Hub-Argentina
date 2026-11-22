@@ -701,7 +701,7 @@ function IndustryStructureContent() {
             </h3>
             <p className="mx-auto mt-1.5 max-w-xl text-xs leading-relaxed text-slate-600">
               {summary && summary.total_companies === 0
-                ? "Por regla estricta de fuentes, Textile Data Hub no precarga clasificaciones inferidas desde conocimiento del modelo, prensa, redes sociales, webs comerciales ni Wikipedia. Puedes registrar firmas (inician en UNKNOWN) y auditar evidencia documental oficial (CNV, Boletín Oficial, Registro MiPyME, ARCA/AFIP, IGJ o RIN)."
+                ? "Por regla estricta de fuentes, Datos de Industria Textil Argentina (DITA) no precarga clasificaciones inferidas desde conocimiento del modelo, prensa, redes sociales, webs comerciales ni Wikipedia. Puedes registrar firmas (inician en UNKNOWN) y auditar evidencia documental oficial (CNV, Boletín Oficial, Registro MiPyME, ARCA/AFIP, IGJ o RIN)."
                 : "Prueba flexibilizar alguno de los filtros de Tamaño, Origen, Modelo productivo o Posición en la cadena, o limpiar todos los filtros."}
             </p>
             <div className="mt-4 flex justify-center gap-2">

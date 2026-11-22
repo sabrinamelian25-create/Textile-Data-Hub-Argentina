@@ -6,7 +6,7 @@ export function Footer() {
       <div className="mx-auto flex max-w-7xl flex-col gap-4 px-4 py-8 text-xs text-slate-500 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
         <div>
           <p className="font-semibold text-slate-700">
-            Textile Data Hub Argentina — Laboratorio académico de investigación económica
+            Datos de Industria Textil Argentina (DITA) — Laboratorio académico de investigación económica
           </p>
           <p className="mt-1">
             Exclusivamente fuentes oficiales primarias (INDEC, BCRA, Secretaría de Trabajo / SIPA, CEP XXI / Sec. de Industria y Comercio, SSPM Datos Argentina).

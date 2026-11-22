@@ -35,7 +35,7 @@ export default function HomePage() {
           Datos oficiales auditados · INDEC · BCRA · Sec. Trabajo · CEP XXI
         </div>
         <h1 className="mt-4 text-3xl font-bold tracking-tight text-slate-900 sm:text-4xl">
-          Textile Data Hub Argentina
+          Datos de Industria Textil Argentina
         </h1>
         <p className="mx-auto mt-3 max-w-2xl text-base leading-relaxed text-slate-600">
           Infraestructura académica para investigar la industria textil e indumentaria argentina:
@@ -104,7 +104,7 @@ export default function HomePage() {
           <div>
             <h2 className="text-xl font-semibold text-slate-900">Dimensiones del sector</h2>
             <p className="mt-0.5 text-sm text-slate-600">
-              Organización temática de las series verificadas por Textile Data Hub
+              Organización temática de las series verificadas por Datos de Industria Textil Argentina (DITA)
             </p>
           </div>
           <Link href="/cadena-textil" className="text-sm font-medium text-navy hover:underline">
