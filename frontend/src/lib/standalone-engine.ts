@@ -571,7 +571,7 @@ export async function standaloneApiFetch<T>(path: string, init?: RequestInit): P
       suggested_topic: topic,
       framing_label: "Posible estructura exploratoria de investigación",
       methodological_caution:
-        "Textile Data Hub no define automáticamente qué variable es 'dependiente' ni 'explicativa' como hecho estadístico. No interpretar asociaciones entre variables agregadas ni entre dimensiones empresariales como causalidad.",
+        "Datos de Industria Textil Argentina (DITA) no define automáticamente qué variable es 'dependiente' ni 'explicativa' como hecho estadístico. No interpretar asociaciones entre variables agregadas ni entre dimensiones empresariales como causalidad.",
       primary_variable: pSer || null,
       related_variables: rSers,
       exploratory_questions: hypotheses,

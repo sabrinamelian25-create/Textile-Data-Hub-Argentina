@@ -23,15 +23,15 @@ export function Navbar() {
     <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/95 backdrop-blur">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <Link href="/" className="flex items-center gap-2.5">
-          <div className="flex h-8 w-8 items-center justify-center rounded-md bg-navy text-xs font-bold tracking-tight text-white">
-            TDH
+          <div className="flex h-8 min-w-[2.25rem] px-1.5 items-center justify-center rounded-md bg-navy text-xs font-bold tracking-tight text-white shadow-sm">
+            DITA
           </div>
           <div>
             <span className="block text-sm font-semibold tracking-tight text-slate-900">
-              Textile Data Hub
+              Datos de Industria Textil Argentina
             </span>
             <span className="block text-[11px] font-medium text-slate-500">
-              Argentina · Datos Oficiales Verificados
+              DITA · Datos Oficiales Verificados
             </span>
           </div>
         </Link>
